@@ -92,7 +92,7 @@
           "name": "punctuation.separator.inheritance.ruby"
         }
       },
-      "match": "(class)\\s*(<<)\\s*",
+      "match": "\b(class)\\s*(<<)\\s*",
       "name": "meta.class.ruby"
     },
     {
